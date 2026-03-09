@@ -1,0 +1,26 @@
+{
+  "contactos": [
+    {
+      "id": "1",
+      "nombre": "Mariana Suarez",
+      "telefono": "3217532037",
+      "correo": "mariana.suarez@gmail.com",
+      "etiqueta": "Aprendiz"
+    },
+    {
+      "id": "106d",
+      "nombre": "Valentina Ruiz",
+      "telefono": "300 255 48 99",
+      "correo": "valentina@gmail.com",
+      "etiqueta": "Aprendiz"
+    },
+    {
+      "id": "fe50",
+      "nombre": "Ismael Mira ",
+      "telefono": "302 257 88 68",
+      "correo": "ismael.mira@gmail.com",
+      "etiqueta": "Compañero"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

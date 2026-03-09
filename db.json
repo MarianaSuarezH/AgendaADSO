@@ -20,6 +20,13 @@
       "telefono": "302 257 88 68",
       "correo": "ismael.mira@gmail.com",
       "etiqueta": "Compañero"
+    },
+    {
+      "id": "8710",
+      "nombre": "carlos",
+      "telefono": "300 232 77 97",
+      "correo": "carlos@sena.edu.co",
+      "etiqueta": "instructor"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -78,6 +78,8 @@ function FormularioContacto({ onAgregar }) {
     }
   };
 
+  
+
   return (
     <form
       className="bg-white shadow-sm rounded-2xl p-6 space-y-4 mb-8"

@@ -22,11 +22,18 @@
       "etiqueta": "Compañero"
     },
     {
-      "id": "8710",
-      "nombre": "carlos",
+      "id": "6b5f",
+      "nombre": "Carlos Gomez",
       "telefono": "300 232 77 97",
       "correo": "carlos@sena.edu.co",
       "etiqueta": "instructor"
+    },
+    {
+      "id": "63e7",
+      "nombre": "Luna Caro",
+      "telefono": "333 222 44 11",
+      "correo": "luna@gmail.com",
+      "etiqueta": "Aprendiz"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

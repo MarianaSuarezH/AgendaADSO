@@ -29,11 +29,11 @@
       "etiqueta": "instructor"
     },
     {
-      "id": "63e7",
       "nombre": "Luna Caro",
-      "telefono": "333 222 44 11",
-      "correo": "luna@gmail.com",
-      "etiqueta": "Aprendiz"
+      "telefono": "302 477 98 64",
+      "correo": "luna.caro@gmail.com",
+      "etiqueta": "Aprendiz",
+      "id": "63e7"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

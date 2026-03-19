@@ -10,9 +10,13 @@ import App from './App.jsx'
 import './index.css'
 // Importamos los estilos globales
 
+import { AuthProvider } from "./context/AuthContext"
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <AuthProvider>
+      <App />
+    </AuthProvider>
     {/* Aquí montamos nuestra Agenda ADSO */}
   </React.StrictMode>,
 );
